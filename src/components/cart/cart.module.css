@@ -3,8 +3,7 @@
     margin: 0 auto;
 }
 
-.cart{
-    
+.cart{ 
     grid-template-columns: repeat(3, 1fr);
 }
 
